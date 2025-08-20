@@ -1,4 +1,4 @@
-package src.com.hspedu.homework.hw04;
+package com.hspedu.homework.hw04;
 
 /**
  * @author 小铭同学

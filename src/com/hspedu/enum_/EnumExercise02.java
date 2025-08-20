@@ -1,4 +1,4 @@
-package src.com.hspedu.enum_;
+package com.hspedu.enum_;
 
 /**
  * @author 小铭同学

@@ -1,4 +1,4 @@
-package src.com.hspedu.homework.hw06;
+package com.hspedu.homework.hw06;
 
 /**
  * @author 小铭同学
